@@ -2,7 +2,7 @@
 ---
 layout: project
 type: project
-image: img/DSC_1036-Edit.jpg
+image: img/20190418020744.jpg
 title: "PintOS"
 date: 2021
 published: true
