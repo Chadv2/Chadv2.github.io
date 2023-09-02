@@ -11,8 +11,7 @@
     "profiles": [
       { "network": "github", "username": "chadv2", "url": "http://github.com/chadv2" },
       { "network": "linkedin", "username": "Chad Vilayvong", "url": "https://www.linkedin.com/in/chad-vilayvong-21336428a/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "instagram", "username": "Chad Vilayvong", "url": "https://www.instagram.com/chadvilayvong/" }
     ]
   },
   "interests": [
