@@ -6,8 +6,8 @@ title: "Metal Detecor Robot"
 date: 2017
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Python
+  - Raspberry Pi
 summary: "A robot I programmed using a Raspberry Pi and Python language for a Physics project."
 ---
 
