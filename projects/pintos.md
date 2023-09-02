@@ -10,7 +10,6 @@ labels:
   - Operating Systems
   - Unix
   - C
-
 summary: "A group project based on an operating system emulated by a virtual machine."
 ---
 <hr>
