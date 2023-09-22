@@ -13,8 +13,8 @@ labels:
   - Javascript
   - HTML
 ---
+![istockphoto-1302931657-612x612](https://github.com/Chadv2/Chadv2.github.io/assets/77819965/0df67968-9571-451c-9b7f-5a2f9f0121a8)
 
-<img width="600px" class="rounded float-start pe-4" src="..img/istockphoto-1302931657-612x612.jpg">
 
 Coding standards are guidlines used to create consistent and high quality codes. 
 Now that the definition of a coding standard is out of the way I can talk about 
