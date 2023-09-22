@@ -14,6 +14,8 @@ labels:
   - HTML
 ---
 
+<img width="100px" class="rounded float-start pe-4" src="..">
+
 Coding standards are guidlines used to create consistent and high quality codes. 
 Now that the definition of a coding standard is out of the way I can talk about 
 how I feel about coding standards as a whole. To be extremely honest when I first
