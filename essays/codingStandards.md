@@ -14,7 +14,7 @@ labels:
   - HTML
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="..img/istockphoto-1302931657-612x612.jpg">
+<img width="200px" class="rounded float-start pe-4" src="..img/istockphoto-1302931657-612x612.jpg">
 
 Coding standards are guidlines used to create consistent and high quality codes. 
 Now that the definition of a coding standard is out of the way I can talk about 
