@@ -14,7 +14,7 @@ labels:
   - HTML
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="..img/201137556-closeup-line-view-classic-french-carve-poet-white-text-space-outline-black-ink-pen-hand-drawn-ponder.jpg">
 
 
 Coding standards are guidlines used to create consistent and high quality codes. 
