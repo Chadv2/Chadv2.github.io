@@ -18,5 +18,5 @@ a webpage adequately after gaining more experiences from the homeworks and WODS.
 coloring of background and text, etc in my opinion, has been easier to understand than coding languages.
 An example of a page done using CSS is shown below.
 
-<img width="200px" class="rounded float-start pe-4" src="essays/Screenshot 2023-10-04 211559.png">
+<img width="200px" class="rounded float-start pe-4" src="Screenshot 2023-10-04 211559.png">
 
