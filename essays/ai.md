@@ -18,7 +18,7 @@ a webpage adequately after gaining more experiences from the homeworks and WODS.
 coloring of background and text, etc in my opinion, has been easier to understand than coding languages.
 An example of a page done using CSS is shown below.
 
-<img width="200px" class="rounded float-start pe-4" src="Screenshot 2023-10-04 211559.png">
+<img width="200px" class="rounded float-start pe-4" src="artificial-intelligence-AI-computer-chip.jpg">
 
 This page is a simple page using ul and li to make a list as well as floating the images so that text wrap
 them. It was a good example to show how CSS can be used to change specific elements of a page to mold them 
@@ -30,7 +30,6 @@ wanted to change my h1 to green, if I used a CSS style approach to it all of my 
 did not ID them. This changed while using Bootstrap 5 as I could change each individual part inline. A webpage 
 is shown below that was made using Bootstrap 5.
 
-<img width="200px" class="rounded float-start pe-4" src="Screenshot 2023-10-04 211739.png">
 
 In my own personal opinion I like using bootstrap more. I feel like I can customize things a lot better to make 
 the page look more professional.
