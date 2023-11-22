@@ -30,7 +30,7 @@ II. Personal Experience with AI<br>
 10.Explaining code<br>
 11.Writing code<br>
 12.Documenting code<br>
-13.Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”<br>
+13.Quality assurance e.g. “What’s wrong with this code” or “Fix the ESLint errors in”<br>
 14.Other uses in ICS 314 not listed<br>
 
   
