@@ -32,6 +32,7 @@ II. Personal Experience with AI<br>
 12.Documenting code<br>
 13.Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”<br>
 14.Other uses in ICS 314 not listed<br>
+
   
 The list above will be addressed with if I used or did not use AI in ICS314 and my reasoning. Starting off with WODs
 experience, practice, and the actual on the list; which I did not use any AI. I feel like I learn to code better first
