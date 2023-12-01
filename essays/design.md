@@ -24,3 +24,9 @@ to make sure our code is well structured. Currently we test our code in a local 
 deployed site which is another creational design pattern called prototyping. In these ways we can identify,
 solve or even avoid any problems that may occur in our code. They all work as a guidline instead of a way
 of implementation for coding which in turn makes the production process more streamlined.
+
+We can even say the process of using Github for our homeworks and projects is also a design pattern. The concept
+of making branches to avoid issues to our main code or having it as a reusable code is in line with creational design
+patterns. An example of this would be how currently for the final project the current group I work with will always 
+fetch from the main code as all new changes and updates made during non class times are pushed there so we will all 
+be working from the same progress.
