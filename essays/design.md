@@ -13,7 +13,6 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="download.jpg">
-
 Design patterns are organizational way of coding based off of three different classifications.
 We have creational, structural and behavioral as those three classifications and each one is 
 a set of templates that help identify problems in a code and come up with solutions. Each of these
