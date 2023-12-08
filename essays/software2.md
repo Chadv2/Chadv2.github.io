@@ -9,8 +9,8 @@ labels:
   - Software Engineering
   - Learning
 ---
-<img width="400px" class="rounded float-start pe-4" src="Capture.PNG">
-<br>
+<img width="400px" class="rounded float-start pe-4" src="Capture.PNG"><br>
+
 Over the course of this semester I learned a lot more than I initially thought I would learn in this class.
 A lot of the class was web development but in a structured and organized way that help to give first hand experience
 on fundamental software engineering. I will be explaining how I learned mostly on development environments and user 
@@ -29,6 +29,6 @@ of all of these helped to make our codes more streamlined and allowed us to do t
 one, such as bootstrap. An example of the differences are shown below using screenshots of webpages we made. The first being 
 Bootstrap only and the second using both Bootstrap and React.<br>
 
-<img width="400px" class="rounded float-start pe-4" src="Screenshot 2023-10-04 211559.png">
-<br>
-<img width="400px" class="rounded float-start pe-4" src="Screenshot 2023-10-04 211739.png">
+<img width="400px" class="rounded float-start pe-4" src="Screenshot 2023-10-04 211559.png"><br>
+
+<img width="400px" class="rounded float-start pe-4" src="Screenshot 2023-10-04 211739.png"><br>
