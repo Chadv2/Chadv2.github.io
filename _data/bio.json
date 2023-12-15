@@ -1,0 +1,58 @@
+{
+  "basics": {
+    "name": "Chad Vilayvong",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/77819965?v=4",
+    "email": "chadv2@hawaii.edu",
+    "website": "https://chadv2.github.io/",
+    "summary": "I am currently studying to get my bachelors degree in Computer Engineering at the College of Engineering at University of Hawaii at Manoa.",
+    "location": { "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "chadv2", "url": "http://github.com/chadv2" },
+      { "network": "linkedin", "username": "Chad Vilayvong", "url": "https://www.linkedin.com/in/chad-vilayvong-21336428a/" },
+      { "network": "instagram", "username": "Chad Vilayvong", "url": "https://www.instagram.com/chadvilayvong/" }
+    ]
+  },
+  "interests": [
+    { "name": "Computer Tech" },
+    { "name": "Fishing" },
+    { "name": "Aquariums" },
+    { "name": "Software" },
+    { "name": "Database and Systems" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "SQL", "Unix" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "WindowsOS" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Ono Thai Cuisine",
+      "position": "Waiter",
+      "website": "",
+      "startDate": "2017-08-01",
+      "endDate": "Present",
+      "summary": "Working for family restaurant to help bring in income for education.",
+      "highlights": [
+        "Able to work long work hours.",
+        "Able to work with a team and keep up good communication."
+      ]
+    },
+  ],
+}
