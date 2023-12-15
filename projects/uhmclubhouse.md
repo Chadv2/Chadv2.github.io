@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: logo4.PNG
+image: img/logo4.png
 title: "Final Project: UHM Clubhouse"
 date: 2023
 published: true
